@@ -2,6 +2,17 @@
 // Write a simple closure of your own creation.  Keep it simple!
 
 
+
+const puppyName = 'Jerry';
+
+function bark(){
+  const age = 33
+  console.log(`${puppyName} is ${age} years old`);
+}
+
+bark();
+
+
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
 
